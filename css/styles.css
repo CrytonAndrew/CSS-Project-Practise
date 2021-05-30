@@ -5,27 +5,3 @@ body {
 h1 {
   margin-top: 0px;
 }
-
-.top-container {
-  background-color: #aad8d3;
-  height: 200px;
-  width: 200px;
-  border: 10px solid black;
-}
-
-.middle-container {
-  width: 200px;
-  height: 200px;
-  border: 20px solid black;
-  margin-left: 220px;
-  background-color: red;
-}
-
-.bottom-container {
-  height: 200px;
-  width: 200px;
-  border: 10px;
-  border: 10px solid black;
-  margin-left: 460px;
-  background-color: blue;
-}
