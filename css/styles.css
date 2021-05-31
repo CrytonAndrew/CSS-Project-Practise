@@ -24,6 +24,15 @@ h3 {
   color: #11999e;
 }
 
+hr {
+  border: none;
+  border-top: 10px dotted #eaf6f6;
+  color: #fff;
+  background-color: #fff;
+  height: 1px;
+  width: 10%;
+}
+
 .pro {
   text-decoration: underline;
 }
@@ -43,10 +52,21 @@ h3 {
   background-color: #e4f9f5;
   position: relative;
   padding-top: 100px;
+  margin-bottom: 100px;
 }
 
 .profile-picture {
   height: 300px;
+}
+
+.about-me-description {
+  width: 25%;
+  margin: 0 auto 50px;
+}
+
+.skills-header {
+  font-weight: bold;
+  color: #66bfbf;
 }
 
 .skill-row {
@@ -58,6 +78,18 @@ h3 {
 
 .skill-img {
   width: 25%;
+}
+
+.computer-img {
+  float: left;
+  margin: 10px;
+  padding-right: 50px;
+}
+
+.chilli-img {
+  float: right;
+  margin: 10px;
+  padding-left: 40px;
 }
 
 .bottom-container {
